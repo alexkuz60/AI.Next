@@ -1,0 +1,46 @@
+Перепиши код:
+def get_x_fft(N):
+    return np.arange(1, N, 2)
+
+def get_window(N, window_type):
+    if window_type == 'hamming':
+        return np.hamming(N)
+    elif window_type == 'hann':
+        return np.hanning(N)
+    elif window_type == 'gaussian':
+        return gaussian(N, std=0.4*N)
+    else:
+        return np.ones(N)  # прямоугольное окно
+
+def prepare_wave_fft_data(tracks, window_type='rectangular'):
+    data = {}
+    N, M = tracks[0].shape
+    x_wave = np.arange(N)
+    x_fft = np.arange(1, N, 2)
+    for t_idx, table in enumerate(tracks):
+        window = get_window(N, window_type)
+        windowed_table = tracks * window[:, np.newaxis]
+        fft_track = np.fft.fft(windowed_table, axis=0)
+        data[t_idx] = {}
+        for c_idx in range(M):
+            wave_y = track[:, c_idx]
+            fft_y_full = np.abs(fft_track[:, c_idx])
+            fft_y = fft_y_full[1:len(x_fft)+1]
+            data[t_idx][c_idx] = {
+                'wave_y': wave_y,
+                'fft_y': fft_y,
+                'x_fft': x_fft, # Убрать
+                'x_wave': x_wave, # оставить общей осью Х.
+            }
+    return data
+
+1. Ось х -общая для вэйв и ффт. Для этого входные данные Трэкс сначала ресэмплируются по длине N для waves каждого столбца column  до 2*N, типа re_tracks = np.repeat(tracks, 2), а на выходе снова десэмплируются до N. Тогда никаких расчетов для ффт не будет нужно и .
+2. Подготовить массив масок десемплированных wave_y, в которых +/-/0 значения это 1/-1/0.
+2. Сделать для ффт каждого трека дополнительные расчеты:
+ - Все fft_y = np.log2(np.abs(fft_y)
+  - Расчет мин и мах абсолютных значений каждого fft_y
+ - Все fft_y = fft_y - мин
+  - применить маски к fft_y
+ - заменить нули в fft_y на None
+ - привести масштаб fft_y к масштабу x_wave по оси У
+  - Масштабировать fft_y

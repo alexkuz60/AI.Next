@@ -1,0 +1,179 @@
+
+**********************************************************
+Load InputArray
+Log started: 23 Feb 2018 12:14:21pm
+
+OrderTab Order:1 T-Shift:0
+Matrix: L23:P2 L47:P2 L57:P2 L67:P2 L80:P2
+Menu:1 Nums: 3 4 6 10 13 14 15 16 17 18 22 23 25 27 29 31 34 35 38 39 43 44 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L58:P3 L71:P3 L101:P3
+Menu:1 Nums: 4 10 13 15 17 18 22 25 27 29 31 35 38 39 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L13:P1 L50:P1
+Menu:1 Nums: 10 13 15 17 18 22 25 29 31 38 39 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L50:P2 L57:P2 L68:P2
+Menu:1 Nums: 10 15 17 18 22 29 31 38 39 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L88:P3
+Menu:1 Nums: 10 17 18 22 29 31 38 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L66:P2
+Menu:1 Nums: 10 17 18 22 29 31 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L114:P5 L208:P5
+Menu:1 Nums: 10 17 22 29 45
+
+OrderTab Order:1 T-Shift:0
+Matrix: L162:P4
+Menu:1 Nums: 17 45
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L28:P1 L37:P1 L45:P2 L64:P1 L72:P2 L79:P1
+Menu:1 Nums: 1 2 3 4 5 7 8 10 11 12 13 15 16 18 21 22 24 25 26 27 28 29 30 31 32 33 36 38 41 42 43 44 45
+
+OrderTab Order:2 T-Shift:0
+Matrix: L82:P3
+Menu:1 Nums: 5 10 11 24 32 38 42
+
+OrderTab Order:2 T-Shift:0
+Matrix: L17:P0
+Menu:1 Nums: 5 10 11 24 32 38
+
+OrderTab Order:2 T-Shift:0
+Matrix: L31:P1
+Menu:1 Nums: 5 11 24 32 38
+
+OrderTab Order:2 T-Shift:0
+Matrix: L59:P2
+Menu:1 Nums: 24 32 38
+
+
+**********************************************************
+Load InputArray
+Log started: 23 Feb 2018 12:36:32pm
+
+DeepTab Order:1 T-Shift:0 C-Deep:412 Order
+Matrix: L14:P2
+Menu:1 Pass: 6 7 10 11
+
+OrderTab Order:1 T-Shift:0
+Matrix: L412:P6 L412:P7 L412:P10
+Menu:1 Nums: 1 5 13 14 18 19 22 23 27 28 32 35 36 37 38 44
+
+DeepTab Order:1 T-Shift:0 C-Deep:412 Order
+Matrix: L6:P1
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:907 Order
+Matrix: L13:P2 L71:P2
+Menu:1 Pass: 11 13 14 15 16 17 19 24 25 26 27 29
+
+DeepTab Order:1 T-Shift:0 C-Deep:907 Order
+Matrix: L6:P1 L33:P1
+Menu:1 Pass: 11 13 14 15 16 17 19 25 26 29
+
+OrderTab Order:1 T-Shift:0
+Matrix: L1000:P13 L1000:P15 L1000:P17 L1000:P19 L1000:P25 L1000:P26
+Menu:1 Nums: 1 5 13 14 19 22 27 28 35
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Matrix: L907:P11 L907:P13 L907:P14 L907:P16 L907:P17 L907:P19 L907:P25 L907:P26 L907:P29
+Menu:1 Nums: 1 7 8 10 12 14 16 18 19 22 24 25 26 28 29 34 35 37 38 40 42 43
+
+DeepTab Order:1 T-Shift:0 C-Deep:907 Order
+Menu:2 Pass: 11 13 14 16 17 19 25 26
+
+DeepTab Order:1 T-Shift:0 C-Deep:907 Order
+Menu:2 Pass: 11 13 14 16 17 19 25 26 29
+
+DeepTab Order:1 T-Shift:0 C-Deep:908 Order
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:913 Order
+Matrix: L37:P1
+Menu:1 Pass: 11 13 14 15 18 19 21 26 28 29
+
+OrderTab Order:1 T-Shift:0
+Matrix: L913:P11 L913:P13 L913:P14 L913:P19 L913:P26 L913:P29
+Menu:1 Nums: 1 7 10 14 16 18 19 24 34 35 40 43
+
+DeepTab Order:1 T-Shift:0 C-Deep:913 Order
+Menu:2 Pass: 11 13 14 18 19 21 26 28 29
+
+DeepTab Order:1 T-Shift:0 C-Deep:913 Order
+Menu:2 Pass: 11 13 14 19 21 26 28 29
+
+DeepTab Order:1 T-Shift:0 C-Deep:913 Order
+Menu:2 Pass: 11 13 14 19 21 26 29
+
+DeepTab Order:1 T-Shift:0 C-Deep:913 Order
+Matrix: L36:P1
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:437 Order
+Matrix: L21:P3 L40:P3
+Menu:1 Pass: 5 7 8 9 11 12 13 14 15
+
+OrderTab Order:1 T-Shift:0
+Matrix: L437:P8 L437:P11 L437:P12 L437:P14
+Menu:1 Nums: 7 10 14 16 18 19 24 34 40 43
+
+
+**********************************************************
+Load InputArray
+Log started: 6 Mar 2018 3:48:50pm
+
+
+**********************************************************
+Load InputArray
+Log started: 7 Mar 2018 7:40:30am
+
+
+**********************************************************
+Load InputArray
+Log started: 8 Mar 2018 4:40:09am
+
+
+**********************************************************
+Load InputArray
+Log started: 8 Mar 2018 5:17:38am
+
+
+**********************************************************
+Load InputArray
+Log started: 9 Mar 2018 2:24:31pm
+
+
+**********************************************************
+Load InputArray
+Log started: 10 Mar 2018 8:33:28pm
+
+
+**********************************************************
+Load InputArray
+Log started: 7 Nov 2018 10:18:38am
+
+
+**********************************************************
+Load InputArray
+Log started: 8 Nov 2018 11:37:24am
+
+
+**********************************************************
+Load InputArray
+Log started: 11 Jan 2019 11:10:50am
+

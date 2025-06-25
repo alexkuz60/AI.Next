@@ -1,0 +1,179 @@
+---
+
+## Файл lib_ftp.py
+
+```python
+import numpy as np
+import plotly.graph_objs as go
+
+def get_x_fft(N):
+    return np.arange(1, N, 2)
+
+def prepare_wave_fft_data(tables):
+    """
+    Принимает список numpy массивов (таблиц) одинакового размера (N, M).
+    Возвращает словарь с подготовленными данными для каждого столбца каждой таблицы.
+    """
+    data = {}
+    N, M = tables[0].shape
+    x_wave = np.arange(N)
+    x_fft = get_x_fft(N)
+    for t_idx, table in enumerate(tables):
+        fft_table = np.fft.fft(table, axis=0)
+        data[t_idx] = {}
+        for c_idx in range(M):
+            wave_y = table[:, c_idx]
+            fft_y_full = np.abs(fft_table[:, c_idx])
+            fft_y = fft_y_full[1:len(x_fft)+1]
+            data[t_idx][c_idx] = {
+                'wave_y': wave_y,
+                'fft_y': fft_y,
+                'x_fft': x_fft,
+                'x_wave': x_wave
+            }
+    return data
+
+def create_wave_fft_plot(data_array, table_num, col_num):
+    """
+    Создаёт Plotly фигуру с двумя треками: волна (сплайн, толщина 2) и FFT (гистограмма),
+    масштабируя FFT по максимуму волны.
+    """
+    wave_y = data_array[table_num][col_num]['wave_y']
+    fft_y = data_array[table_num][col_num]['fft_y']
+    x_fft = data_array[table_num][col_num]['x_fft']
+    x_wave = data_array[table_num][col_num]['x_wave']
+
+    max_wave = np.max(np.abs(wave_y))
+    max_fft = np.max(fft_y)
+    zoom = max_wave / max_fft if max_fft != 0 else 1.0
+    fft_y_scaled = fft_y * zoom
+
+    fig = go.Figure()
+
+    fig.add_trace(go.Bar(
+        y=fft_y_scaled,
+        x=x_fft,
+        name='FFT (масштабировано)',
+        marker_color='yellow',
+        opacity=0.25,
+        legendgroup='fft',
+        showlegend=True
+    ))
+
+    fig.add_trace(go.Scatter(
+        y=wave_y,
+        x=x_wave,
+        mode='lines+markers',
+        line=dict(shape='spline', width=2, color='aliceblue'),
+        opacity=0.75,
+        name=f'Волна (табл {table_num}, столбец {col_num})',
+        legendgroup='wave',
+        showlegend=True
+    ))
+
+
+    fig.update_layout(
+        template="plotly_dark",
+        title=f'Волна и FFT для таблицы {table_num}, столбца {col_num}',
+        xaxis=dict(
+            title='Индекс',
+            showgrid=True,
+            zeroline=True,
+            zerolinecolor='LightPink',
+            zerolinewidth=2,
+            fixedrange=False
+        ),
+        yaxis=dict(
+            title='Амплитуда',
+            showgrid=True,
+            fixedrange=False
+        ),
+        legend=dict(
+            orientation='h',
+            yanchor='bottom',
+            y=1.02,
+            xanchor='left',
+            x=0,
+            bgcolor='rgba(0,0,0,0)',
+            bordercolor='rgba(0,0,0,0)'
+        ),
+        bargap=0.2,
+        height=400,
+        margin=dict(t=80)
+    )
+
+    return fig
+```
+
+---
+
+## Файл app_fft.py
+
+```python
+from dash import Dash, dcc, Input, Output
+import dash_mantine_components as dmc
+import numpy as np
+from lib_ftp import prepare_wave_fft_data, create_wave_fft_plot
+
+# Создаем примерный блок таблиц
+T = [np.random.randint(-20, 21, size=(200, 5)) for _ in range(3)]
+data_array = prepare_wave_fft_data(T)
+
+app = Dash(__name__, title="FFT Viewer with Dash Mantine Dark")
+
+app.layout = dmc.MantineProvider(
+    theme={"colorScheme": "dark"},
+    defaultColorScheme="dark",
+    children=[
+        dmc.Container(
+            size="xl",
+            children=[
+                dmc.Title("FFT Viewer", order=1, mb="md"),
+                dmc.Group(
+                    children=[
+                        dmc.Select(
+                            id="table-select",
+                            label="Выберите таблицу",
+                            data=[{"label": f"Таблица {i}", "value": str(i)} for i in range(len(T))],
+                            value="0",
+                            style={"minWidth": 200}
+                        ),
+                        dmc.Select(
+                            id="column-select",
+                            label="Выберите столбец",
+                            data=[{"label": f"Столбец {i}", "value": str(i)} for i in range(T[0].shape[1])],
+                            value="0",
+                            style={"minWidth": 200}
+                        ),
+                    ],
+                    mb="md"
+                ),
+                dcc.Graph(id="fft-graph", style={"width": "100%", "height": "500px"})
+            ]
+        )
+    ]
+)
+
+@app.callback(
+    Output("fft-graph", "figure"),
+    Input("table-select", "value"),
+    Input("column-select", "value")
+)
+def update_graph(table_num_str, col_num_str):
+    table_num = int(table_num_str)
+    col_num = int(col_num_str)
+    return create_wave_fft_plot(data_array, table_num, col_num)
+
+if __name__ == "__main__":
+    app.run(debug=True)
+```
+## Краткое резюме
+
+- Реализован расчет FFT по столбцам блока таблиц с одинаковыми размерами.
+- Подготовлены данные для визуализации: волновая функция и амплитудный спектр FFT.
+- Визуализация построена с помощью Plotly 6, линия волны — сглаженный сплайн толщиной 2, FFT — гистограмма, масштабированная по максимуму волны.
+- Интеграция в Dash 6 с использованием dash-mantine-components 1.1, с тёмной темой.
+- В интерфейсе реализован выбор таблицы и столбца с динамическим обновлением графика.
+- Учтены нюансы типов данных для Mantine Select (значения — строки).
+- Запуск приложения через `app.run(debug=True)` согласно Dash 6.
+```

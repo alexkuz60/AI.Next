@@ -1,0 +1,1613 @@
+
+**********************************************************
+Load InputArray
+Log started: 18 Mar 2018 9:02:15am
+
+
+**********************************************************
+Load InputArray
+Log started: 18 Mar 2018 10:05:15am
+
+
+**********************************************************
+Load InputArray
+Log started: 18 Mar 2018 10:10:38am
+
+
+**********************************************************
+Load InputArray
+Log started: 18 Mar 2018 10:44:40am
+
+
+**********************************************************
+Load InputArray
+Log started: 18 Mar 2018 2:19:27pm
+
+
+**********************************************************
+Load InputArray
+Log started: 18 Mar 2018 3:17:23pm
+
+SortTab Order:1 T-Shift:0
+Matrix: L32:P4 L118:P24 L147:P24 L205:P24 L284:P24 L348:P24 L371:P24 L395:P24
+Menu:1 Nums: 1 2 3 4 5 6 7 10
+
+SortTab Order:1 T-Shift:0
+Matrix: L32:P4 L38:P5 L42:P5
+Menu:1 Nums: 1 2 3 5 10
+
+SortTab Order:1 T-Shift:0
+Matrix: L14:P1 L16:P2
+Menu:1 Nums: 1 3 5 10
+
+SortTab Order:1 T-Shift:0
+Matrix: L32:P4 L38:P5
+Menu:2 Nums: 1 3
+
+SortTab Order:1 T-Shift:0
+Matrix: L43:P6
+[Excluded reset]
+
+SortTab Order:2 T-Shift:0
+Matrix: L83:P6 L375:P20 L386:P20 L390:P21
+Menu:1 Nums: 3 4 6 7 9 10 11 12
+
+SortTab Order:2 T-Shift:0
+Matrix: L63:P5 L65:P4 L67:P5 L74:P5
+Menu:1 Nums: 3 6 7 9 10 11 12
+
+SortTab Order:2 T-Shift:0
+Matrix: L83:P6 L95:P6
+Menu:1 Nums: 3 6 9 10 11 12
+
+SortTab Order:2 T-Shift:0
+Matrix: L43:P3 L48:P3
+Menu:1 Nums: 3 9 10 12
+
+SortTab Order:2 T-Shift:0
+Matrix: L149:P12
+Menu:1 Nums: 9 10 12
+
+SortTab Order:2 T-Shift:0
+Matrix: L192:P14
+Menu:1 Nums: 10 12
+
+SortTab Order:2 T-Shift:0
+Matrix: L38:P2 L43:P3 L57:P3 L65:P4 L78:P5 L86:P6 L96:P7 L120:P9
+[Excluded reset]
+
+SortTab Order:3 T-Shift:0
+Matrix: L394:P15
+Menu:1 Nums: 10 22 23
+
+SortTab Order:3 T-Shift:0
+Matrix: L31:P1 L35:P2
+Menu:2 Nums: 10 23
+
+SortTab Order:3 T-Shift:0
+Matrix: L87:P3 L112:P5 L130:P6 L170:P7 L181:P8 L203:P9 L210:P10 L247:P11 L301:P12 L329:P14
+[Excluded reset]
+
+SortTab Order:4 T-Shift:0
+Matrix: L165:P8 L363:P17 L389:P17
+Menu:1 Nums: 13 14 15 16 17 18 23 24 25
+
+SortTab Order:4 T-Shift:0
+Matrix: L10:P1 L31:P2
+Menu:1 Nums: 13 14 16 18 24 25
+
+SortTab Order:4 T-Shift:0
+Matrix: L104:P5
+Menu:1 Nums: 13 14 16 18 24
+
+SortTab Order:4 T-Shift:0
+Matrix: L127:P6
+Menu:1 Nums: 13 16 18 24
+
+SortTab Order:4 T-Shift:0
+Matrix: L363:P17 L387:P17
+Menu:1 Nums: 18 24
+
+SortTab Order:4 T-Shift:0
+Matrix: L363:P17
+[Excluded reset]
+
+SortTab Order:5 T-Shift:0
+Matrix: L32:P2 L372:P18 L382:P18 L389:P18
+Menu:1 Nums: 19 20 21 22 23 24 27 28 30 31 32 33
+
+SortTab Order:5 T-Shift:0
+Matrix: L31:P2 L32:P2
+Menu:1 Nums: 20 21 22 23 24 27 28 30 31 32 33
+
+SortTab Order:5 T-Shift:0
+Matrix: L51:P5 L99:P5
+Menu:1 Nums: 20 21 22 27 28 30 31
+
+SortTab Order:5 T-Shift:0
+Matrix: L216:P10 L356:P16 L373:P17 L382:P18
+Menu:1 Nums: 20 21 27 30
+
+SortTab Order:5 T-Shift:0
+Matrix: L44:P3 L67:P3
+Menu:1 Nums: 21 27 30
+
+SortTab Order:5 T-Shift:0
+Matrix: L87:P4 L99:P5 L142:P7 L208:P10 L301:P13 L344:P14 L356:P16
+[Excluded reset]
+
+SortTab Order:6 T-Shift:0
+Matrix: L346:P20 L357:P21 L363:P21 L381:P21 L395:P20
+Menu:1 Nums: 27 28 29 31 32 34 37
+
+SortTab Order:6 T-Shift:0
+Matrix: L329:P21 L357:P21 L363:P21 L381:P21
+Menu:1 Nums: 27 28 29 31 32 34
+
+SortTab Order:6 T-Shift:0
+Matrix: L101:P7 L141:P7 L160:P7
+Menu:1 Nums: 27 28 29 31 34
+
+SortTab Order:6 T-Shift:0
+Matrix: L60:P5 L98:P5
+Menu:1 Nums: 27 28 29 31
+
+SortTab Order:6 T-Shift:0
+Matrix: L295:P17
+Menu:1 Nums: 27 28 31
+
+SortTab Order:6 T-Shift:0
+Matrix: L91:P4
+[Excluded reset]
+
+SortTab Order:7 T-Shift:0
+Matrix: L16:P2 L35:P6 L45:P6
+Menu:1 Nums: 33 34 35 36 37 39
+
+SortTab Order:7 T-Shift:0
+Matrix: L16:P2
+Menu:1 Nums: 33 36 37 39
+
+SortTab Order:7 T-Shift:0
+Matrix: L26:P4
+Menu:1 Nums: 36 39
+
+
+**********************************************************
+Load InputArray
+Log started: 19 Mar 2018 6:44:32am
+
+
+**********************************************************
+Load InputArray
+Log started: 20 Mar 2018 7:14:03am
+
+GroupTab Order 1 T-Shift:0
+Matrix: L8:P2
+Menu:1 Nums: 2 4 6 8 9 18 20 21 24 26 31 33
+
+GroupTab Order 1 T-Shift:0
+Matrix: L11:P3
+Menu:1 Nums: 2 8 18 21 26
+
+GroupTab Order 1 T-Shift:0
+Matrix: L20:P4 L22:P5 L32:P5
+Menu:1 Nums: 2 18 21
+
+OrderTab Order:1 T-Shift:0
+Matrix: L21:P3
+Menu:1 Nums: 1 2 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L7:P1 L8:P2 L16:P1 L21:P3 L32:P4 L46:P5 L48:P6
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Matrix: L6:P1
+Menu:1 Nums: 2 3 4 6 8 9
+
+OrderTab Order:1 T-Shift:0
+Matrix: L16:P2
+Menu:1 Nums: 3 4 8
+
+OrderTab Order:1 T-Shift:0
+Matrix: L38:P3
+Menu:1 Nums: 3 4
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Menu:7 Nums: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Matrix: L6:P1 L18:P2
+Menu:1 Nums: 1 2 3 4 6 8 9 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L6:P1
+Menu:1 Nums: 2 3 4 6 8 9
+
+OrderTab Order:1 T-Shift:0
+Matrix: L38:P3
+Menu:1 Nums: 3 4 6
+
+OrderTab Order:1 T-Shift:0
+Matrix: L20:P2
+Menu:1 Nums: 3 4
+
+OrderTab Order:1 T-Shift:0
+Matrix: L16:P2 L28:P3 L38:P3 L40:P4 L45:P5
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L11:P1 L15:P1 L15:P2 L18:P2
+Menu:1 Nums: 2 5 6 7 8 9 11 12 15 17 19
+
+OrderTab Order:2 T-Shift:0
+Matrix: L18:P2
+Menu:1 Nums: 5 7 8 11 12 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L38:P3
+Menu:1 Nums: 5 7 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L47:P4 L81:P4
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L21:P1
+Menu:1 Nums: 2 3 6 9 15 19 21 26
+
+OrderTab Order:2 T-Shift:0
+Matrix: L35:P3 L54:P4
+Menu:1 Nums: 3 9
+
+GroupTab Order 2 T-Shift:0
+[Excluded reset]
+
+GroupTab Order 2 T-Shift:0
+Matrix: L35:P4 L39:P5
+Menu:1 Nums: 3 6 9 15 16 17 20 22 25 27 29 32
+
+GroupTab Order 2 T-Shift:0
+[Excluded reset]
+
+GroupTab Order 2 T-Shift:0
+Matrix: L7:P1
+Menu:1 Nums: 5 6 7 9 13 14 15 16 18 19 24 25 27 28 29 34 36
+
+GroupTab Order 2 T-Shift:0
+Matrix: L46:P6
+[Excluded reset]
+
+GroupTab Order 2 T-Shift:0
+Matrix: L44:P6 L46:P6
+Menu:1 Nums: 5 9 15 17 18 20 22 23 24 27 30 32 37
+
+GroupTab Order 2 T-Shift:0
+Matrix: L25:P5 L31:P5 L34:P5 L43:P6
+[Excluded reset]
+
+GroupTab Order 2 T-Shift:0
+Matrix: L50:P8 L53:P8 L68:P9 L72:P10 L75:P11 L88:P12 L94:P13
+Menu:1 Nums: 5 9 10 15 16 17 18 20 22 23 24 27 29 30 34 37 39
+
+GroupTab Order 2 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L67:P2 L68:P3 L73:P3 L74:P3
+Menu:1 Nums: 2 4 6 7 10 12 13 14 15 16 17 19 21 26
+
+OrderTab Order:2 T-Shift:0
+Matrix: L67:P2
+Menu:1 Nums: 2 4 10 14 19 26
+
+OrderTab Order:2 T-Shift:0
+Matrix: L55:P1
+Menu:1 Nums: 4 10 14 19 26
+
+OrderTab Order:3 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L31:P2 L39:P2
+Menu:1 Nums: 5 8 10 11 15 16 18 19 21 26
+
+OrderTab Order:3 T-Shift:0
+Matrix: L7:P1 L11:P1 L15:P1 L23:P1
+Menu:1 Nums: 5 8 10 11 15 16 18 19 26
+
+OrderTab Order:3 T-Shift:0
+Matrix: L23:P1
+Menu:1 Nums: 10 15 16 19 26
+
+OrderTab Order:3 T-Shift:1
+Matrix: L22:P1
+Menu:2 Nums: 15 16 19 26
+
+OrderTab Order:3 T-Shift:0
+Matrix: L62:P2 L63:P2
+Menu:1 Nums: 16 26
+
+OrderTab Order:3 T-Shift:0
+Matrix: L63:P2 L165:P3
+[Excluded reset]
+
+OrderTab Order:4 T-Shift:0
+Matrix: L40:P2 L51:P2
+Menu:1 Nums: 12 16 17 18 19 22 23 25 26 29 31 33
+
+OrderTab Order:4 T-Shift:0
+Matrix: L26:P1
+Menu:1 Nums: 12 17 18 19 22 25 26 29
+
+OrderTab Order:4 T-Shift:0
+Matrix: L40:P2 L99:P3
+Menu:1 Nums: 12 18 19 22 25 26 29
+
+OrderTab Order:4 T-Shift:0
+Matrix: L40:P2
+[Excluded reset]
+
+OrderTab Order:4 T-Shift:0
+Matrix: L22:P1
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:300 Order
+Matrix: L5:P1 L12:P1 L19:P1
+Menu:1 Pass: 3 5 8 9 11 12 17 18 19 20 21 23
+
+DeepTab Order:4 T-Shift:0 C-Deep:300 Order
+Matrix: L14:P2
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:300 Order
+Matrix: L80:P3 L89:P4
+Menu:1 Pass: 6 7 13 16 17 20 21 23
+
+DeepTab Order:4 T-Shift:0 C-Deep:300 Order
+Matrix: L96:P4
+Menu:1 Pass: 6 13 16 20 23
+
+DeepTab Order:4 T-Shift:0 C-Deep:300 Order
+Matrix: L84:P3
+Menu:1 Pass: 6 13 23
+
+OrderTab Order:4 T-Shift:0
+Matrix: L300:P6 L300:P13 L300:P23
+Menu:1 Nums: 13 21 32 35
+
+OrderTab Order:4 T-Shift:0
+Matrix: L298:P6
+Menu:1 Nums: 13 32 35
+
+OrderTab Order:4 T-Shift:0
+Matrix: L178:P1
+Menu:1 Nums: 32 35
+
+
+**********************************************************
+Load InputArray
+Log started: 20 Mar 2018 8:01:11pm
+
+
+**********************************************************
+Load InputArray
+Log started: 20 Mar 2018 8:05:21pm
+
+OrderTab Order:1 T-Shift:0
+Matrix: L300:P11 L300:P28 L300:P44 L300:P45 L300:P46 L300:P47
+Menu:2 Nums: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+
+OrderTab Order:1 T-Shift:0
+Menu:2 Nums: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:300 Order
+Matrix: L52:P4 L57:P4 L71:P4
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:300 Order
+Menu:8 Pass: 11 45
+
+DeepTab Order:1 T-Shift:0 C-Deep:200 Order
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:200 Order
+Matrix: L10:P1 L17:P1 L20:P1 L27:P1
+Menu:1 Pass: 2 3 7 8 9 10 11 12 13 14 16 17 18 19 20 31 32 33 34
+
+OrderTab Order:1 T-Shift:0
+Matrix: L200:P2 L200:P3 L200:P8 L200:P10 L200:P12 L200:P13 L200:P14 L200:P18 L200:P32 L300:P11 L300:P45
+Menu:1 Nums: 3 4 5 6 7 8 9 10 11 14 15 16 18
+
+DeepTab Order:1 T-Shift:0 C-Deep:200 Order
+Matrix: L10:P1 L17:P1 L20:P1 L27:P1
+[Excluded reset]
+
+DeepTab Order:1 T-Shift:0 C-Deep:197 Order
+Matrix: L19:P1 L27:P1
+Menu:1 Pass: 2 3 7 8 9 10 11 12 13 14 16 17 19 30 31 32 33 34
+
+OrderTab Order:1 T-Shift:0
+Matrix: L194:P31 L197:P2 L197:P3 L197:P8 L197:P10 L197:P11 L197:P12 L197:P13 L197:P14 L197:P32 L329:P31
+Menu:1 Nums: 3 4 5 6 7 8 9 10 14 15 16 18
+
+DeepTab Order:1 T-Shift:0 C-Deep:197 Order
+Matrix: L19:P1 L27:P1
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Matrix: L207:P8 L207:P13 L207:P14 L207:P18 L207:P33
+Menu:1 Nums: 3 4 7 8 9
+
+OrderTab Order:1 T-Shift:0
+Matrix: L48:P6 L108:P6 L124:P6
+Menu:1 Nums: 3 7 8
+
+OrderTab Order:1 T-Shift:0
+Matrix: L17:P2
+Menu:1 Nums: 3 8
+
+OrderTab Order:1 T-Shift:0
+Matrix: L25:P3
+[Excluded reset]
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L14:P2 L21:P2 L25:P2 L31:P2 L40:P2 L44:P2
+Menu:1 Pass: 2 4 5 7 8 9 11 12 14 15 16 17 18 19
+
+OrderTab Order:2 T-Shift:0
+Matrix: L207:P5 L207:P8 L207:P9 L207:P12 L207:P15 L207:P16 L207:P17 L207:P18
+Menu:1 Nums: 4 6 8 9 10 11 12 13 14 15 17 19 21
+
+OrderTab Order:2 T-Shift:0
+Matrix: L207:P18 L220:P18 L246:P18 L295:P18 L339:P18 L403:P18
+Menu:1 Nums: 4 6 8 9 11 12 13 14
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L32:P3 L44:P3 L55:P3 L59:P3
+Menu:1 Pass: 4 5 7 8 9 11 12 14 15 16 17 18
+
+OrderTab Order:2 T-Shift:0
+Matrix: L207:P8 L207:P12 L207:P15 L207:P16 L207:P17
+Menu:1 Nums: 4 6 9 11 12 13 14
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L47:P5 L60:P5 L70:P5
+Menu:1 Pass: 7 8 9 12 14 15 16 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L207:P8 L207:P15 L207:P16 L207:P17
+Menu:1 Nums: 4 9 11 12 13
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L14:P2 L27:P2 L31:P2
+Menu:1 Pass: 7 8 14 15 16 17
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L32:P3
+Menu:1 Pass: 7 14 15 16 17
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L32:P3
+Menu:2 Pass: 15 16 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L207:P15 L207:P16 L207:P17
+Menu:1 Nums: 9 11 12 13
+
+OrderTab Order:2 T-Shift:0
+Matrix: L102:P9 L123:P9
+Menu:1 Nums: 9 11 12
+
+OrderTab Order:2 T-Shift:0
+Matrix: L9:P1
+Menu:1 Nums: 9 11
+
+DeepTab Order:2 T-Shift:0 C-Deep:207 Order
+Matrix: L34:P3 L45:P4 L48:P5
+[Excluded reset]
+
+DeepTab Order:2 T-Shift:0 C-Deep:153 Order
+Matrix: L26:P1
+Menu:1 Pass: 1 2 5 7 8 9 12 14 15
+
+DeepTab Order:2 T-Shift:0 C-Deep:153 Order
+Matrix: L40:P2 L46:P2
+Menu:1 Pass: 1 2 5 7 8 9 12
+
+DeepTab Order:2 T-Shift:0 C-Deep:153 Order
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L153:P1 L153:P2 L153:P5 L153:P7 L153:P8 L153:P9 L153:P12 L153:P14 L153:P15
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:153 Order
+Matrix: L20:P1
+Menu:1 Pass: 1 2 3 4 8 10 12 13
+
+DeepTab Order:3 T-Shift:0 C-Deep:153 Order
+Matrix: L30:P4 L56:P4 L57:P4
+Menu:1 Pass: 1 2 3 8 10
+
+DeepTab Order:3 T-Shift:0 C-Deep:153 Order
+Menu:2 Pass: 2 3 8 10
+
+OrderTab Order:3 T-Shift:0
+Matrix: L24:P2 L27:P2 L32:P2 L42:P2 L153:P2 L153:P3 L153:P8 L153:P10 L326:P16 L335:P16 L348:P16 L360:P16 L374:P16 L398:P16
+Menu:1 Nums: 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21 22 23 24 25 26 30 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L30:P3 L36:P3 L48:P3 L60:P3 L66:P3 L85:P3
+Menu:1 Nums: 5 9 10 11 12 13 14 15 16 18 19 21 23
+
+OrderTab Order:3 T-Shift:0
+Matrix: L24:P2 L27:P2
+Menu:1 Nums: 5 10 11 12 13 16 18 19
+
+DeepTab Order:3 T-Shift:0 C-Deep:153 Order
+Matrix: L20:P1
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:100 Order
+Matrix: L26:P3
+Menu:1 Pass: 1 2 3 4 5 6 7
+
+DeepTab Order:3 T-Shift:0 C-Deep:100 Order
+Matrix: L11:P2 L22:P2
+Menu:1 Pass: 1 3 4 5 6 7
+
+DeepTab Order:3 T-Shift:0 C-Deep:100 Order
+Menu:2 Pass: 3 4 5 6 7
+
+DeepTab Order:3 T-Shift:0 C-Deep:100 Order
+Matrix: L33:P4
+Menu:2 Pass: 4 5 6 7
+
+DeepTab Order:3 T-Shift:0 C-Deep:100 Order
+Matrix: L26:P3 L33:P4
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:154 Order
+Matrix: L3:P1 L5:P1 L10:P1 L19:P1
+Menu:1 Pass: 1 2 3 4 5 6 7 8 9 10 12 13
+
+OrderTab Order:3 T-Shift:0
+Matrix: L154:P5 L154:P6 L154:P7 L154:P8 L154:P9
+Menu:1 Nums: 5 10 11 16 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L36:P3 L48:P3
+Menu:1 Nums: 10 11 16 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L236:P15 L332:P15
+Menu:1 Nums: 10 11 19
+
+DeepTab Order:3 T-Shift:0 C-Deep:154 Order
+Matrix: L29:P4 L32:P4 L43:P4
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:251 Order
+Matrix: L22:P2 L25:P3 L29:P2 L34:P3
+Menu:1 Pass: 2 5 6 9 10 11 12 13 14 16 17
+
+DeepTab Order:3 T-Shift:0 C-Deep:251 Order
+Matrix: L22:P2 L29:P2
+Menu:1 Pass: 2 5 6 10 11 12 13 14 16 17
+
+DeepTab Order:3 T-Shift:0 C-Deep:251 Order
+Matrix: L44:P6 L79:P6
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:216 Order
+Matrix: L4:P1 L23:P1
+Menu:8 Pass: 9 12 43 44 45 46 47
+
+DeepTab Order:3 T-Shift:0 C-Deep:216 Order
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:168 Order
+Matrix: L23:P3 L26:P3 L30:P3
+Menu:1 Pass: 3 6 7 8 9 10
+
+DeepTab Order:3 T-Shift:0 C-Deep:168 Order
+Matrix: L5:P1
+Menu:1 Pass: 6 7 8 10
+
+OrderTab Order:3 T-Shift:0
+Matrix: L168:P7 L168:P8
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:168 Order
+Matrix: L5:P1
+[Excluded reset]
+
+OrderTab Order:4 T-Shift:0
+Matrix: L71:P7 L93:P7 L105:P7 L112:P7 L112:P11 L131:P11 L133:P7 L146:P11 L179:P11 L231:P11 L279:P11 L294:P11
+Menu:1 Nums: 15 16 17 18 19 20 21 22 23 24 25 26 27 29
+
+OrderTab Order:4 T-Shift:0
+Matrix: L12:P1 L202:P17 L241:P17 L273:P17 L366:P17
+Menu:1 Nums: 16 17 18 19 20 21 22 23 24 25 26
+
+DeepTab Order:4 T-Shift:0 C-Deep:110 Order
+Matrix: L15:P4 L31:P4
+Menu:1 Pass: 2 3 4 5 6
+
+DeepTab Order:4 T-Shift:0 C-Deep:110 Order
+Matrix: L2:P1 L6:P1 L8:P2
+Menu:1 Pass: 2 4 6
+
+OrderTab Order:4 T-Shift:0
+Matrix: L12:P1
+Menu:1 Nums: 16 17 18 19 20 23 24 25 26
+
+OrderTab Order:4 T-Shift:0
+Matrix: L32:P3 L43:P3 L55:P3 L64:P3
+Menu:1 Nums: 16 18 19 20 23 24 25 26
+
+DeepTab Order:4 T-Shift:0 C-Deep:110 Order
+Matrix: L8:P2
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:99 Order
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:95 Order
+Matrix: L7:P1
+Menu:1 Pass: 2 3 4 5 6 10
+
+DeepTab Order:4 T-Shift:0 C-Deep:95 Order
+Matrix: L12:P2
+Menu:1 Pass: 2 3 4 5
+
+DeepTab Order:4 T-Shift:0 C-Deep:95 Order
+Matrix: L12:P2
+Menu:2 Pass: 3 4 5
+
+OrderTab Order:4 T-Shift:0
+Matrix: L17:P2 L29:P2
+Menu:1 Nums: 16 19 23 24 26
+
+OrderTab Order:4 T-Shift:0
+Matrix: L32:P3
+Menu:1 Nums: 19 24 26
+
+OrderTab Order:4 T-Shift:0
+Matrix: L68:P5
+Menu:1 Nums: 24 26
+
+OrderTab Order:4 T-Shift:0
+Matrix: L104:P7 L127:P8 L152:P9 L170:P10 L174:P11 L192:P12 L205:P13
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:95 Order
+Matrix: L21:P3
+[Excluded reset]
+
+OrderTab Order:5 T-Shift:0
+Matrix: L7:P1 L11:P1 L16:P1 L21:P1 L26:P1
+Menu:1 Nums: 11 20 21 22 23 24 25 26 27 28 30 31 32 33 34 35 36 37
+
+DeepTab Order:5 T-Shift:0 C-Deep:95 Order
+Matrix: L6:P1 L7:P2 L13:P2
+Menu:1 Pass: 3 4 5 6 7
+
+OrderTab Order:5 T-Shift:0
+Matrix: L21:P1
+Menu:1 Nums: 11 20 21 22 23 24 25 30 32 33 34 35 36 37
+
+DeepTab Order:5 T-Shift:0 C-Deep:95 Order
+Matrix: L17:P4 L27:P4
+[Excluded reset]
+
+OrderTab Order:5 T-Shift:0
+Matrix: L99:P3 L99:P4 L99:P5 L99:P6
+Menu:1 Nums: 20 21 22 23 24 25 34 36
+
+OrderTab Order:5 T-Shift:0
+Matrix: L60:P1 L60:P2 L60:P3 L60:P4
+Menu:1 Nums: 20 21 22 23 24 36
+
+OrderTab Order:5 T-Shift:0
+Matrix: L112:P4
+Menu:1 Nums: 20 22 23 24 36
+
+OrderTab Order:5 T-Shift:0
+Matrix: L119:P5
+Menu:1 Nums: 20 23 24 36
+
+OrderTab Order:5 T-Shift:0
+Matrix: L241:P13
+Menu:1 Nums: 23 36
+
+DeepTab Order:5 T-Shift:0 C-Deep:177 Order
+Matrix: L4:P1 L6:P1 L13:P1 L20:P1
+Menu:1 Pass: 1 3 4 5 6 7 8 9 10 11 12 16
+
+DeepTab Order:5 T-Shift:0 C-Deep:177 Order
+Menu:2 Pass: 6 8
+
+OrderTab Order:5 T-Shift:0
+Matrix: L177:P8
+[Excluded reset]
+
+DeepTab Order:5 T-Shift:0 C-Deep:177 Order
+Matrix: L9:P2
+[Excluded reset]
+
+OrderTab Order:6 T-Shift:0
+Matrix: L152:P3 L152:P4 L152:P6 L152:P11 L152:P13 L152:P14 L152:P16 L152:P17 L152:P19 L152:P21
+Menu:1 Nums: 26 28 29 30 33 34 35 36 37 38 39
+
+OrderTab Order:6 T-Shift:0
+Matrix: L8:P1 L14:P3 L22:P1 L28:P3
+Menu:1 Nums: 26 29 33 34 35 36 37 38 39
+
+DeepTab Order:6 T-Shift:0 C-Deep:134 Order
+Matrix: L10:P1 L12:P1
+Menu:1 Pass: 3 5 10 11 12 13 14 15 19 20
+
+OrderTab Order:6 T-Shift:0
+Matrix: L41:P8 L65:P8 L98:P8 L134:P3 L134:P10 L134:P11 L134:P15 L134:P19 L134:P20
+Menu:1 Nums: 26 33 34 35 36 37 38 39
+
+OrderTab Order:6 T-Shift:0
+Matrix: L82:P11 L135:P11 L140:P11
+Menu:1 Nums: 33 34 35 36 38 39
+
+DeepTab Order:6 T-Shift:0 C-Deep:134 Order
+Matrix: L10:P1 L12:P1
+[Excluded reset]
+
+DeepTab Order:6 T-Shift:0 C-Deep:121 Order
+Matrix: L15:P3 L40:P3 L46:P3
+Menu:1 Pass: 2 5 7 8 9 10 11 14 15 16
+
+OrderTab Order:6 T-Shift:0
+Matrix: L121:P9 L121:P10 L121:P14
+Menu:1 Nums: 33 34 35 38
+
+OrderTab Order:6 T-Shift:0
+Matrix: L41:P5
+Menu:1 Nums: 33 35
+
+OrderTab Order:6 T-Shift:0
+[Excluded reset]
+
+DeepTab Order:6 T-Shift:0 C-Deep:121 Order
+Matrix: L6:P1 L23:P1
+[Excluded reset]
+
+OrderTab Order:7 T-Shift:0
+Matrix: L121:P1 L121:P2 L121:P3 L121:P4 L121:P5 L121:P6 L121:P7
+Menu:1 Nums: 1 2 3 4 5 6 8 9 10 11 12 14 15 16 17 18 19 20 22 23 24 25 26 27 28 29 30 31 32 33 34 36 37 39
+
+DeepTab Order:7 T-Shift:0 C-Deep:121 Order
+Matrix: L6:P1 L7:P2 L11:P1 L12:P2 L16:P2 L20:P2
+Menu:1 Pass: 1 2 3 4 5 6 7
+
+DeepTab Order:7 T-Shift:0 C-Deep:121 Order
+Matrix: L11:P1
+[Excluded reset]
+
+OrderTab Order:7 T-Shift:0
+Matrix: L117:P1 L117:P2 L117:P3 L117:P4 L117:P5
+Menu:1 Nums: 1 2 3 4 5 6 8 9 10 11 12 14 15 16 17 18 22 23 24 25 26 27 28 29 30 31 32 33 34 36 37 39
+
+DeepTab Order:7 T-Shift:0 C-Deep:117 Order
+Matrix: L6:P2 L16:P2 L21:P2 L23:P2
+Menu:1 Pass: 1 2 3 4 5
+
+OrderTab Order:7 T-Shift:0
+Matrix: L117:P1 L117:P2 L117:P4 L117:P5
+Menu:1 Nums: 1 2 4 5 6 8 9 10 11 12 14 15 16 17 18 22 23 27 28 31 32 33 36 37 39
+
+DeepTab Order:7 T-Shift:0 C-Deep:117 Order
+Matrix: L13:P4 L30:P4 L38:P4
+Menu:1 Pass: 1 2 4 5
+
+DeepTab Order:7 T-Shift:0 C-Deep:117 Order
+[Excluded reset]
+
+DeepTab Order:7 T-Shift:0 C-Deep:110 Order
+Matrix: L7:P2 L15:P2 L19:P2
+Menu:1 Pass: 1 2 3 4 5 6
+
+DeepTab Order:7 T-Shift:0 C-Deep:110 Order
+Matrix: L7:P2 L15:P2
+Menu:1 Pass: 1 2 3 4 5
+
+DeepTab Order:7 T-Shift:0 C-Deep:110 Order
+Matrix: L6:P1
+Menu:1 Pass: 2 3 4 5
+
+OrderTab Order:7 T-Shift:0
+Matrix: L110:P2 L110:P3 L110:P4 L110:P5
+Menu:1 Nums: 8 9 10 11 12 14 15 16 17 22 27 31 32 33 36 37 39
+
+OrderTab Order:7 T-Shift:0
+Matrix: L120:P5
+Menu:1 Nums: 8 11 12 22 31 33
+
+OrderTab Order:7 T-Shift:0
+Matrix: L63:P3
+Menu:1 Nums: 8 11 22 31 33
+
+OrderTab Order:7 T-Shift:0
+Matrix: L74:P4
+Menu:1 Nums: 8 11 22 31
+
+OrderTab Order:7 T-Shift:0
+Matrix: L135:P6 L167:P6
+Menu:1 Nums: 8 11 22
+
+DeepTab Order:7 T-Shift:0 C-Deep:110 Order
+Matrix: L14:P2
+[Excluded reset]
+
+DeepTab Order:7 T-Shift:0 C-Deep:160 Order
+Matrix: L33:P4 L56:P4
+Menu:1 Pass: 1 2 3 6 7
+
+
+**********************************************************
+Load InputArray
+Log started: 21 Mar 2018 6:19:29am
+
+
+**********************************************************
+Load InputArray
+Log started: 21 Mar 2018 7:46:22am
+
+
+**********************************************************
+Load InputArray
+Log started: 21 Mar 2018 8:43:39am
+
+OrderTab Order:1 T-Shift:0
+Matrix: L4:P1 L10:P1 L14:P1 L16:P1 L29:P1 L33:P1 L56:P1 L63:P1
+Menu:1 Nums: 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 19
+
+OrderTab Order:1 T-Shift:0
+Matrix: L31:P4 L42:P4 L79:P4 L91:P4
+Menu:1 Nums: 1 3 4 5 6 7 8 9 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L18:P2 L30:P2 L34:P2
+Menu:1 Nums: 1 3 4 5 6 7 8 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L18:P2
+Menu:1 Nums: 1 3 4 6 8 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L23:P3 L32:P3
+Menu:1 Nums: 1 3 4 6 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L34:P3 L42:P4
+Menu:1 Nums: 3 4 6 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L34:P3
+Menu:1 Nums: 4 6 10
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+DeepTab Order:2 T-Shift:0 C-Deep:100 Order
+Matrix: L21:P4 L33:P4 L59:P4
+Menu:1 Pass: 1 2 3 4 5 6 7 8
+
+OrderTab Order:2 T-Shift:0
+Matrix: L22:P2 L49:P2 L72:P3 L78:P3 L100:P3 L100:P6 L100:P8
+Menu:1 Nums: 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 21 26
+
+DeepTab Order:2 T-Shift:0 C-Deep:100 Order
+Matrix: L14:P2
+Menu:1 Pass: 3 6 8
+
+DeepTab Order:2 T-Shift:0 C-Deep:100 Order
+Matrix: L10:P1 L14:P2 L33:P4
+Menu:2 Pass: 6 8
+
+OrderTab Order:2 T-Shift:0
+Matrix: L73:P3 L78:P3 L90:P4 L100:P6 L100:P8 L101:P4
+Menu:1 Nums: 3 4 6 7 9 10 11 12 13 14 15 16 17 19 21
+
+DeepTab Order:2 T-Shift:0 C-Deep:100 Order
+Matrix: L33:P4
+[Excluded reset]
+
+DeepTab Order:2 T-Shift:0 C-Deep:60 Order
+Matrix: L18:P6 L34:P6 L47:P6 L50:P6 L113:P6
+Menu:1 Pass: 1 2 3 4 6 7
+
+OrderTab Order:2 T-Shift:0
+Matrix: L60:P1 L60:P3 L60:P6 L102:P6
+Menu:1 Nums: 3 4 7 9 10 11 13 14 16 17 21
+
+OrderTab Order:2 T-Shift:0
+Matrix: L15:P1 L25:P1 L35:P1
+Menu:1 Nums: 3 7 9 11 13 14 17 21
+
+DeepTab Order:2 T-Shift:0 C-Deep:60 Order
+Matrix: L6:P2 L16:P2 L28:P2 L29:P2
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L121:P5 L121:P7 L121:P9 L172:P9
+Menu:1 Nums: 3 9 11 13 14 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L15:P1
+Menu:1 Nums: 9 11 14 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L43:P3 L78:P3
+Menu:1 Nums: 9 14 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L37:P2
+Menu:1 Nums: 9 14
+
+OrderTab Order:2 T-Shift:0
+Matrix: L83:P6
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:121 Order
+Matrix: L6:P1 L9:P1 L15:P1
+Menu:1 Pass: 1 2 3 4 5 6 7 8 9 10
+
+DeepTab Order:3 T-Shift:0 C-Deep:121 Order
+Matrix: L14:P2 L19:P2
+Menu:1 Pass: 1 2 3 4 6 8 9
+
+OrderTab Order:3 T-Shift:0
+Matrix: L11:P1 L121:P1 L121:P2 L121:P3 L121:P4 L121:P6 L121:P8 L121:P9
+Menu:1 Nums: 4 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 28 29 30 31
+
+DeepTab Order:3 T-Shift:0 C-Deep:121 Order
+Matrix: L9:P1
+Menu:1 Pass: 1 2 3 6 8 9
+
+DeepTab Order:3 T-Shift:0 C-Deep:121 Order
+Matrix: L14:P2
+Menu:1 Pass: 1 3 8 9
+
+OrderTab Order:3 T-Shift:0
+Matrix: L51:P4 L62:P5 L75:P4 L87:P5 L121:P3 L121:P6 L121:P8 L121:P9
+Menu:1 Nums: 8 9 10 11 12 13 16 17 19 21 23 27
+
+OrderTab Order:3 T-Shift:0
+Matrix: L21:P2 L22:P2 L28:P2
+Menu:1 Nums: 8 10 11 12 13 16 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L31:P3 L37:P3 L45:P3
+Menu:1 Nums: 10 11 12 13 16 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L57:P4 L74:P4
+Menu:1 Nums: 10 11 13 16 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L37:P3
+Menu:1 Nums: 10 13 16 19
+
+DeepTab Order:3 T-Shift:0 C-Deep:121 Order
+Matrix: L42:P5
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L93:P5
+Menu:1 Nums: 10 13 16
+
+OrderTab Order:3 T-Shift:0
+Matrix: L100:P6 L131:P6
+[Excluded reset]
+
+OrderTab Order:4 T-Shift:0
+Matrix: L13:P1 L15:P1 L23:P1 L25:P1 L28:P1 L32:P1 L43:P1
+Menu:1 Nums: 10 12 13 14 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 35
+
+DeepTab Order:4 T-Shift:0 C-Deep:91 Order
+Matrix: L10:P1 L45:P1
+Menu:1 Pass: 1 3 4 5 6 8 9 10 11
+
+DeepTab Order:4 T-Shift:0 C-Deep:91 Order
+Matrix: L26:P5 L67:P5 L87:P5 L98:P5
+Menu:1 Pass: 1 3 4 6 8 9
+
+OrderTab Order:4 T-Shift:0
+Matrix: L91:P1 L91:P3 L91:P4 L91:P6 L91:P9
+Menu:1 Nums: 13 14 16 17 18 19 21 23 26 28 31 33 35
+
+OrderTab Order:4 T-Shift:0
+Matrix: L13:P1 L23:P1
+Menu:1 Nums: 14 16 17 18 19 21 23 26 28 33 35
+
+OrderTab Order:4 T-Shift:0
+Matrix: L30:P2
+Menu:1 Nums: 14 16 19 21 23 26 33
+
+OrderTab Order:4 T-Shift:0
+Matrix: L44:P3
+Menu:1 Nums: 14 19 21 26
+
+OrderTab Order:4 T-Shift:0
+Matrix: L15:P1 L30:P2 L44:P3 L67:P4
+Menu:2 Nums: 14 21 26
+
+DeepTab Order:4 T-Shift:0 C-Deep:91 Order
+Matrix: L10:P1
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:126 Order
+Matrix: L15:P3 L26:P3 L50:P3
+Menu:1 Pass: 1 2 4 5 6 7 10 11 13
+
+DeepTab Order:4 T-Shift:0 C-Deep:126 Order
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:124 Order
+Matrix: L6:P1 L14:P2
+Menu:1 Pass: 1 2 5 6 7 14
+
+DeepTab Order:4 T-Shift:0 C-Deep:124 Order
+Matrix: L16:P3
+Menu:1 Pass: 5 6 7
+
+OrderTab Order:4 T-Shift:0
+Matrix: L124:P5 L124:P6
+Menu:1 Nums: 14 21
+
+OrderTab Order:4 T-Shift:0
+Matrix: L16:P1 L26:P1 L30:P2 L36:P2 L44:P3 L50:P3 L52:P4
+[Excluded reset]
+
+DeepTab Order:4 T-Shift:0 C-Deep:124 Order
+Matrix: L14:P2
+[Excluded reset]
+
+DeepTab Order:5 T-Shift:0 C-Deep:124 Order
+Matrix: L18:P2 L25:P2 L43:P2
+Menu:1 Pass: 1 2 3 6 8 9 11 12
+
+OrderTab Order:5 T-Shift:0
+Matrix: L124:P1 L124:P2 L124:P3 L124:P6 L124:P8 L124:P9 L124:P11
+Menu:1 Nums: 11 16 17 18 19 21 26 27 29 30 31 34 38
+
+DeepTab Order:5 T-Shift:0 C-Deep:124 Order
+Matrix: L16:P1
+Menu:1 Pass: 2 6 8 9 11
+
+OrderTab Order:5 T-Shift:0
+Matrix: L124:P2 L124:P8 L124:P9 L124:P11
+Menu:1 Nums: 11 16 18 19 26 27 29 30 38
+
+DeepTab Order:5 T-Shift:0 C-Deep:124 Order
+Matrix: L25:P2 L43:P2
+Menu:1 Pass: 2 8 9 11
+
+DeepTab Order:5 T-Shift:0 C-Deep:124 Order
+Matrix: L43:P2
+Menu:1 Pass: 8 9 11
+
+OrderTab Order:5 T-Shift:0
+Matrix: L124:P8 L124:P9 L124:P11
+Menu:1 Nums: 26 27 29 30
+
+OrderTab Order:5 T-Shift:0
+Matrix: L32:P2 L62:P3
+Menu:1 Nums: 26 27 30
+
+OrderTab Order:5 T-Shift:0
+Matrix: L35:P3
+Menu:1 Nums: 26 30
+
+OrderTab Order:5 T-Shift:0
+[Excluded reset]
+
+DeepTab Order:5 T-Shift:0 C-Deep:124 Order
+Matrix: L43:P2
+[Excluded reset]
+
+DeepTab Order:6 T-Shift:0 C-Deep:124 Order
+Matrix: L24:P1 L25:P2 L29:P1 L32:P2 L41:P2 L51:P3
+Menu:1 Pass: 2 3 4 5 7 8 9 10 12 14 15 16 17 18 19 20 21
+
+DeepTab Order:6 T-Shift:0 C-Deep:124 Order
+Matrix: L18:P1 L24:P1 L30:P1
+Menu:1 Pass: 2 3 4 7 8 9 10 12 14 15 16 17 18 19 20 21
+
+OrderTab Order:6 T-Shift:0
+Matrix: L8:P1 L17:P1 L23:P1 L44:P1 L52:P1 L62:P1
+Menu:1 Nums: 16 20 22 25 26 28 29 30 31 32 33 34 35 37 38 39
+
+DeepTab Order:6 T-Shift:0 C-Deep:124 Order
+Matrix: L64:P4
+Menu:1 Pass: 8 10 16 17
+
+DeepTab Order:6 T-Shift:0 C-Deep:124 Order
+Matrix: L37:P2
+Menu:1 Pass: 8 10 16
+
+OrderTab Order:6 T-Shift:0
+Matrix: L23:P1 L118:P10
+Menu:1 Nums: 16 22 26 32 33 34 35 37 38
+
+OrderTab Order:6 T-Shift:0
+Matrix: L99:P8 L111:P8
+Menu:1 Nums: 33 34 37 38
+
+DeepTab Order:6 T-Shift:0 C-Deep:124 Order
+[Excluded reset]
+
+DeepTab Order:6 T-Shift:0 C-Deep:121 Order
+Matrix: L7:P1 L24:P1
+Menu:1 Pass: 2 3 4 5 6 7 8 9 10 11 12 14 15 16 18 19 20 21
+
+DeepTab Order:6 T-Shift:0 C-Deep:121 Order
+Matrix: L24:P1
+Menu:1 Pass: 2 3 4 6 7 8 9 10 12 14 15 16 18 19 20 21
+
+OrderTab Order:6 T-Shift:0
+Matrix: L121:P9 L121:P10
+Menu:1 Nums: 33 34 38
+
+OrderTab Order:6 T-Shift:0
+Matrix: L21:P1 L89:P5
+[Excluded reset]
+
+OrderTab Order:7 T-Shift:0
+Matrix: L18:P1 L27:P1 L36:P1 L50:P1 L64:P1
+Menu:1 Nums: 3 4 6 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 35 36 37 39
+
+OrderTab Order:7 T-Shift:0
+Matrix: L49:P2 L63:P2 L77:P2
+Menu:1 Nums: 8 9 10 12 15 16 17 19 22 25 26 27 29 30 31 32 35 36 37 39
+
+DeepTab Order:6 T-Shift:0 C-Deep:121 Order
+Matrix: L24:P1
+[Excluded reset]
+
+DeepTab Order:7 T-Shift:0 C-Deep:121 Order
+Matrix: L7:P1 L10:P1 L13:P2 L17:P2 L20:P2
+Menu:1 Pass: 2 3 4 5 6 7
+
+OrderTab Order:7 T-Shift:0
+Matrix: L121:P2 L121:P3 L121:P4 L121:P5 L121:P6
+Menu:1 Nums: 8 9 10 12 15 16 17 19 22 25 26 27 29 30 31 32 36 37 39
+
+DeepTab Order:7 T-Shift:0 C-Deep:121 Order
+Matrix: L25:P4 L35:P4
+Menu:1 Pass: 2 3 4 5 6
+
+DeepTab Order:7 T-Shift:0 C-Deep:121 Order
+Matrix: L44:P8 L64:P8
+[Excluded reset]
+
+OrderTab Order:7 T-Shift:0
+Matrix: L107:P2 L107:P3 L107:P4 L107:P5
+Menu:1 Nums: 8 9 10 12 15 16 17 22 25 26 27 29 30 31 32 36 37 39
+
+OrderTab Order:7 T-Shift:0
+Matrix: L28:P1 L36:P1
+Menu:1 Nums: 8 10 12 15 22 26 27 29 31 32 36 37 39
+
+OrderTab Order:7 T-Shift:0
+Matrix: L198:P7 L225:P7 L293:P7
+Menu:1 Nums: 10 12 15 27 29 32 36 37
+
+OrderTab Order:7 T-Shift:0
+Matrix: L69:P3 L78:P3 L82:P3 L125:P3
+Menu:1 Nums: 10 12 15 29 32
+
+OrderTab Order:7 T-Shift:0
+Matrix: L193:P7 L222:P7
+Menu:1 Nums: 10 12 15 29
+
+DeepTab Order:7 T-Shift:0 C-Deep:107 Order
+Matrix: L18:P3 L30:P3
+Menu:1 Pass: 2 3 4 5
+
+DeepTab Order:7 T-Shift:0 C-Deep:107 Order
+Matrix: L18:P3
+Menu:1 Pass: 2 3 4
+
+OrderTab Order:7 T-Shift:0
+Matrix: L107:P3 L107:P4
+Menu:1 Nums: 12 15 29
+
+OrderTab Order:7 T-Shift:0
+Matrix: L114:P3
+Menu:1 Nums: 15 29
+
+DeepTab Order:7 T-Shift:0 C-Deep:107 Order
+Matrix: L3:P1
+[Excluded reset]
+
+DeepTab Order:7 T-Shift:0 C-Deep:159 Order
+Matrix: L6:P1 L14:P1
+Menu:1 Pass: 1 2 3 5 6 7 9
+
+DeepTab Order:7 T-Shift:0 C-Deep:159 Order
+Matrix: L36:P4 L57:P4
+Menu:1 Pass: 1 2 3 6 7
+
+DeepTab Order:7 T-Shift:0 C-Deep:159 Order
+[Excluded reset]
+
+OrderTab Order:7 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:7 T-Shift:0
+Matrix: L139:P2 L139:P3 L139:P5 L139:P7
+Menu:1 Nums: 3 8 9 14 18 22 23 25 26 27 28 30 31 33 34 36 37 39
+
+DeepTab Order:7 T-Shift:0 C-Deep:139 Order
+Matrix: L12:P2 L27:P4
+Menu:1 Pass: 2 3 5 7
+
+OrderTab Order:7 T-Shift:0
+Matrix: L139:P2 L139:P3 L139:P5
+Menu:1 Nums: 3 8 9 14 18 23 25 26 27 28 30 31 33 34 36 37 39
+
+DeepTab Order:7 T-Shift:0 C-Deep:139 Order
+Matrix: L27:P4
+Menu:1 Pass: 2 3 5
+
+DeepTab Order:7 T-Shift:0 C-Deep:139 Order
+Matrix: L7:P1 L13:P2 L27:P4 L33:P5 L46:P7
+Menu:2 Pass: 3 5
+
+OrderTab Order:7 T-Shift:0
+Matrix: L139:P3 L139:P5
+Menu:1 Nums: 3 8 14 18 25 26 30 31 33 34 37
+
+OrderTab Order:7 T-Shift:0
+Matrix: L139:P5
+Menu:1 Nums: 3 8 31 33
+
+DeepTab Order:7 T-Shift:0 C-Deep:139 Order
+Matrix: L57:P9
+[Excluded reset]
+
+DeepTab Order:7 T-Shift:0 C-Deep:101 Order
+Matrix: L4:P1 L12:P1 L15:P1
+Menu:1 Pass: 1 2 4 5 6
+
+OrderTab Order:7 T-Shift:0
+Matrix: L101:P4 L101:P5
+Menu:1 Nums: 3 8 31
+
+OrderTab Order:7 T-Shift:0
+Matrix: L36:P1
+Menu:1 Nums: 8 31
+
+
+**********************************************************
+Load InputArray
+Log started: 21 Mar 2018 1:30:54pm
+
+
+**********************************************************
+Load InputArray
+Log started: 21 Mar 2018 7:55:36pm
+
+
+**********************************************************
+Load InputArray
+Log started: 22 Mar 2018 8:13:12am
+
+
+**********************************************************
+Load InputArray
+Log started: 22 Mar 2018 5:08:21pm
+
+OrderTab Order:1 T-Shift:0
+Matrix: L24:P3
+Menu:1 Nums: 1 3 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L6:P1 L24:P3 L29:P4 L39:P5 L41:P6 L50:P6
+Menu:2 Nums: 1 3
+
+OrderTab Order:2 T-Shift:26
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L38:P3 L73:P3 L78:P3 L104:P4 L111:P6
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L111:P6
+Menu:1 Nums: 3 10 13
+
+OrderTab Order:2 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L16:P1
+Menu:1 Nums: 7 8 11 14 15 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L23:P2
+Menu:1 Nums: 7 8 11 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L28:P3
+Menu:1 Nums: 8 11
+
+OrderTab Order:2 T-Shift:0
+Matrix: L11:P1 L16:P1 L23:P2 L28:P3
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L5:P1 L12:P1 L20:P1
+Menu:1 Nums: 5 6 8 11 12 13 14 15 16 18 19 20 23 28
+
+OrderTab Order:3 T-Shift:0
+Matrix: L16:P2 L26:P2
+Menu:1 Nums: 5 8 11 12 13 16 18 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L32:P3
+Menu:1 Nums: 12 13 16 18
+
+OrderTab Order:3 T-Shift:0
+Matrix: L48:P4 L51:P4
+Menu:1 Nums: 12 13 18
+
+OrderTab Order:3 T-Shift:0
+Matrix: L53:P5
+Menu:1 Nums: 12 18
+
+OrderTab Order:3 T-Shift:0
+Matrix: L66:P6
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L41:P1 L60:P1 L65:P1
+Menu:1 Nums: 4 6 14 17 20 21 22 23 25 26 27 28 30 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L41:P1
+Menu:1 Nums: 4 6 14 20 21 22 23 25 26 27 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L48:P1
+Menu:1 Nums: 4 6 14 20 22 23 25 27 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L87:P1
+Menu:1 Nums: 6 20 22 25 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L109:P2
+Menu:1 Nums: 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L183:P2 L185:P3 L283:P3
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L12:P1 L41:P1 L49:P1 L57:P1 L83:P1
+Menu:1 Nums: 4 6 7 9 11 12 13 14 15 17 18 19 20 21 22 23 25 26 27 28 29 30 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L72:P2 L93:P2 L98:P2 L129:P2 L141:P2 L159:P2
+Menu:1 Nums: 4 6 7 14 17 20 22 25 26 27 28 29 30 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L12:P1 L41:P1 L49:P1 L83:P1
+Menu:1 Nums: 4 6 7 9 11 12 13 14 15 17 18 19 20 21 22 23 25 26 27 28 29 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L98:P2 L129:P2 L141:P2 L170:P2
+Menu:1 Nums: 4 6 7 20 22 25 26 27 28 29 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L157:P2
+Menu:1 Nums: 4 6 7 25 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L198:P3
+Menu:1 Nums: 7 25 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L183:P2
+Menu:1 Nums: 25 28 31
+
+DeepTab Order:3 T-Shift:0 C-Deep:228 Order
+Matrix: L22:P1
+Menu:1 Pass: 2 3 4 7 8 12 14 16 17
+
+DeepTab Order:3 T-Shift:0 C-Deep:228 Order
+Matrix: L24:P2 L42:P2 L53:P2
+Menu:1 Pass: 2 3 4 8 14 16
+
+DeepTab Order:3 T-Shift:0 C-Deep:228 Order
+Matrix: L53:P2
+Menu:1 Pass: 3 14 16
+
+OrderTab Order:3 T-Shift:0
+Matrix: L228:P3
+[Excluded reset]
+
+
+**********************************************************
+Load InputArray
+Log started: 22 Mar 2018 6:08:37pm
+
+
+**********************************************************
+Load InputArray
+Log started: 23 Mar 2018 7:57:04am
+
+OrderTab Order:1 T-Shift:0
+Matrix: L7:P2 L13:P2 L20:P2
+Menu:1 Nums: 1 2 3 4 6 8 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L12:P1 L21:P2
+Menu:1 Nums: 1 4 6 8 10
+
+OrderTab Order:1 T-Shift:0
+Matrix: L6:P1 L12:P1
+Menu:1 Nums: 1 4 6 8
+
+OrderTab Order:1 T-Shift:0
+Matrix: L24:P2
+Menu:1 Nums: 4 6 8
+
+OrderTab Order:1 T-Shift:0
+Matrix: L34:P3 L43:P3
+Menu:1 Nums: 4 6
+
+OrderTab Order:1 T-Shift:0
+Matrix: L81:P4 L91:P6
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Menu:8 Nums: 4 6
+
+OrderTab Order:2 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:2 T-Shift:0
+Matrix: L18:P1 L21:P1 L38:P1 L49:P1 L64:P1
+Menu:1 Nums: 2 4 6 7 8 10 13 14 15 16 17 21 23 26
+
+OrderTab Order:2 T-Shift:0
+Matrix: L18:P1 L21:P1 L31:P1 L38:P1
+Menu:1 Nums: 2 6 7 8 13 14 15 17 21 26
+
+OrderTab Order:2 T-Shift:0
+Matrix: L18:P1 L21:P1 L31:P1
+Menu:1 Nums: 2 6 7 8 14 15 17 21 26
+
+OrderTab Order:2 T-Shift:0
+Matrix: L28:P2
+Menu:1 Nums: 7 8 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L39:P3
+Menu:1 Nums: 7 17
+
+OrderTab Order:2 T-Shift:0
+Matrix: L80:P3 L101:P4 L126:P5
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L13:P1
+Menu:1 Nums: 6 11 12 13 14 15 18 19 20 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L17:P2 L27:P2
+Menu:1 Nums: 11 12 13 18 19 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L33:P3 L37:P3 L47:P3
+Menu:1 Nums: 11 12 13 18 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L57:P5 L64:P5
+Menu:1 Nums: 11 12 18 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L66:P6
+Menu:1 Nums: 12 18 19
+
+OrderTab Order:3 T-Shift:0
+Matrix: L76:P7 L82:P8
+Menu:1 Nums: 18 19
+
+DeepTab Order:3 T-Shift:0 C-Deep:18 Order
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:18 Order
+Matrix: L5:P1
+Menu:1 Pass: 1 2
+
+OrderTab Order:3 T-Shift:0
+Matrix: L18:P2 L108:P9
+[Excluded reset]
+
+DeepTab Order:3 T-Shift:0 C-Deep:18 Order
+Matrix: L5:P1
+[Excluded reset]
+
+OrderTab Order:3 T-Shift:0
+Matrix: L18:P1 L18:P2
+Menu:1 Nums: 6 11 12 13 14 15 16 19 20 28 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L27:P2
+Menu:1 Nums: 11 12 13 16 19 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L30:P2
+Menu:1 Nums: 11 13 16 19 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L31:P2
+Menu:1 Nums: 11 16 19 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L35:P2
+Menu:1 Nums: 11 19 31
+
+OrderTab Order:3 T-Shift:0
+Matrix: L47:P3
+Menu:1 Nums: 11 19
+
+
+**********************************************************
+Load InputArray
+Log started: 23 Mar 2018 8:53:53am
+
+RankTab Order:1 T-Shift:0 Rank:4 Order
+
+RankTab Order:1 T-Shift:0 Rank:4 Order
+Res1: 1 2 3 4 5 6 7 8 9 10
+Res2: 11 12 13 14 15 16 17 18 19 20
+Res3: 21 22 23 24 25 26 27 28 29 30
+Res4: 31 32 33 34 35 36 37 38 39
+
+
+**********************************************************
+Load InputArray
+Log started: 21 Jun 2018 7:14:20am
+
+
+**********************************************************
+Load InputArray
+Log started: 1 Oct 2018 5:44:50am
+
+
+**********************************************************
+Load InputArray
+Log started: 9 Oct 2018 10:02:23pm
+
+
+**********************************************************
+Load InputArray
+Log started: 3 Jan 2019 1:08:43pm
+

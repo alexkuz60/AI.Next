@@ -1,0 +1,82 @@
+
+**********************************************************
+Load InputArray
+Log started: 16 Mar 2018 11:41:05pm
+
+
+**********************************************************
+Load InputArray
+Log started: 17 Mar 2018 3:42:16pm
+
+OrderTab Order:1 T-Shift:0
+Matrix: L20:P1 L31:P2 L55:P2 L64:P2
+Menu:1 Nums: 3 6 8 9 11 12 15 16 17 18 19 20 21 22 25 26 28 29 30 31 32 33 34 35 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L20:P1 L43:P1
+Menu:1 Nums: 3 6 8 9 12 15 16 17 18 19 20 21 22 26 28 29 32 34 35 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L20:P1
+Menu:1 Nums: 3 6 15 18 19 20 21 22 26 28 29 32 34 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L25:P2 L52:P2 L69:P2
+Menu:1 Nums: 3 15 19 20 21 22 26 29 32 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L52:P2 L69:P2
+Menu:1 Nums: 3 15 19 22 26 29 32 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L69:P2
+Menu:1 Nums: 3 15 19 26 29 32 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L82:P3 L93:P3
+Menu:1 Nums: 3 15 19 26 29
+
+OrderTab Order:1 T-Shift:0
+Matrix: L86:P4 L126:P4
+Menu:1 Nums: 3 19 29
+
+OrderTab Order:1 T-Shift:0
+Matrix: L91:P5
+Menu:2 Nums: 19 29
+
+OrderTab Order:1 T-Shift:0
+Matrix: L91:P5
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Matrix: L55:P2 L64:P2 L69:P2
+Menu:1 Nums: 3 8 9 11 12 15 16 17 19 22 25 26 27 29 30 32 35 36 37 39
+
+OrderTab Order:1 T-Shift:0
+Matrix: L81:P3 L94:P3
+Menu:1 Nums: 3 8 11 12 15 16 17 19 25 26 29 30 35
+
+OrderTab Order:1 T-Shift:0
+Matrix: L20:P1 L43:P1 L53:P1 L59:P1
+Menu:1 Nums: 3 8 12 15 16 17 19 25 26 29 30 35
+
+OrderTab Order:1 T-Shift:0
+Matrix: L64:P2
+Menu:1 Nums: 3 12 15 16 17 19 25 26 29 30 35
+
+OrderTab Order:1 T-Shift:0
+Matrix: L267:P8
+Menu:1 Nums: 16 17 25 29
+
+OrderTab Order:1 T-Shift:0
+Matrix: L34:P0
+Menu:1 Nums: 16 17 25
+
+OrderTab Order:1 T-Shift:0
+Matrix: L46:P1 L54:P2
+Menu:1 Nums: 16 17
+
+OrderTab Order:1 T-Shift:0
+Matrix: L93:P3 L131:P4 L160:P5
+[Excluded reset]
+

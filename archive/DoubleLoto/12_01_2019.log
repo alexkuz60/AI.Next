@@ -1,0 +1,118 @@
+
+**********************************************************
+Load InputArray
+Log started: 13 Jan 2019 2:43:42pm
+
+SortTab Order:1 T-Shift:0
+Matrix: L7:P1 L21:P1 L27:P1 L59:P1
+Menu:1 Nums: 2 3 4 5 6 7 9 10 11 12 13 15 16
+
+SortTab Order:1 T-Shift:0
+Matrix: L129:P2
+Menu:1 Nums: 10 11 12 13 16
+
+SortTab Order:1 T-Shift:0
+Matrix: L163:P3
+Menu:1 Nums: 10 12 13 16
+
+SortTab Order:1 T-Shift:0
+Matrix: L218:P5
+Menu:1 Nums: 10 12 13
+
+SortTab Order:1 T-Shift:0
+Matrix: L295:P8
+Menu:1 Nums: 10 12
+
+SortTab Order:1 T-Shift:0
+[Excluded reset]
+
+SortTab Order:2 T-Shift:0
+Matrix: L21:P2 L38:P2 L53:P2 L71:P2
+Menu:1 Nums: 3 4 5 6 8 9 10 11 12 13 14 16 17 18 20
+
+SortTab Order:2 T-Shift:0
+Matrix: L31:P3 L35:P3
+Menu:1 Nums: 3 5 8 9 13 16
+
+SortTab Order:2 T-Shift:0
+Matrix: L35:P3
+Menu:1 Nums: 3 5 8 9 13
+
+SortTab Order:2 T-Shift:0
+Matrix: L56:P6
+Menu:1 Nums: 8 9 13
+
+SortTab Order:2 T-Shift:0
+Matrix: L64:P7
+Menu:1 Nums: 9 13
+
+SortTab Order:2 T-Shift:0
+[Excluded reset]
+
+SortTab Order:3 T-Shift:0
+Matrix: L17:P1
+Menu:1 Nums: 4 7 8 10 11 14 15 18 23 25
+
+SortTab Order:3 T-Shift:0
+Matrix: L27:P2
+Menu:1 Nums: 11 14 23 25
+
+SortTab Order:3 T-Shift:0
+Matrix: L46:P3
+Menu:1 Nums: 11 14 23
+
+SortTab Order:3 T-Shift:0
+Matrix: L77:P4
+Menu:1 Nums: 14 23
+
+SortTab Order:4 T-Shift:0
+[Excluded reset]
+
+SortTab Order:4 T-Shift:0
+Matrix: L16:P1
+Menu:1 Nums: 9 11 13 15 16 17 18 20 21 22 23 24 25 27 29 31
+
+SortTab Order:4 T-Shift:0
+Matrix: L28:P2
+Menu:1 Nums: 17 20 22 24 25 27 29
+
+SortTab Order:4 T-Shift:0
+Matrix: L55:P5
+Menu:1 Nums: 17 20 25 27
+
+SortTab Order:4 T-Shift:0
+Matrix: L71:P6
+Menu:1 Nums: 17 25 27
+
+SortTab Order:4 T-Shift:0
+Matrix: L109:P8
+[Excluded reset]
+
+SortTab Order:5 T-Shift:0
+Matrix: L7:P1 L20:P1
+Menu:1 Nums: 15 18 19 20 21 22 23 24 25 26 30 31 32 34 35 36
+
+SortTab Order:5 T-Shift:0
+Matrix: L66:P4
+Menu:1 Nums: 19 21 23 25 34 35
+
+SortTab Order:5 T-Shift:0
+Matrix: L72:P5
+Menu:1 Nums: 21 23 25 34
+
+SortTab Order:5 T-Shift:0
+Matrix: L20:P1 L33:P2 L39:P3 L65:P4 L72:P5 L116:P8
+[Excluded reset]
+
+SortTab Order:6 T-Shift:0
+Matrix: L11:P2 L20:P2
+Menu:1 Nums: 25 26 28 29 31 33 36 37
+
+SortTab Order:6 T-Shift:0
+Matrix: L23:P3
+Menu:1 Nums: 25 29 31 36 37
+
+SortTab Order:6 T-Shift:0
+Matrix: L30:P5
+[Excluded reset]
+

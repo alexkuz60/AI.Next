@@ -1,0 +1,125 @@
+
+**********************************************************
+Load InputArray
+Log started: 7 Oct 2018 4:37:11pm
+
+OrderTab Order:1 T-Shift:0
+[Excluded reset]
+
+OrderTab Order:1 T-Shift:0
+Matrix: L6:P1
+Menu:1 Nums: 6 7 8 9 12 13
+
+OrderTab Order:1 T-Shift:0
+Matrix: L8:P2 L10:P2 L12:P3 L17:P5
+Menu:1 Nums: 8 9 12
+
+OrderTab Order:1 T-Shift:0
+Matrix: L20:P6
+[Excluded reset]
+
+RankTab Order:1 T-Shift:0 Rank:2 Order
+
+RankTab Order:1 T-Shift:0 Rank:2 Order
+Res1: 1 3 5 7 9 11 13 15 17
+Res2: 2 4 6 8 10 12 14 16
+
+RankTab Order:1 T-Shift:0 Rank:4 Order
+
+RankTab Order:1 T-Shift:0 Rank:4 Order
+Res1: 1 3 5 7
+Res2: 2 4 6 8
+Res3: 9 11 13 15 17
+Res4: 10 12 14 16
+
+RankTab Order:1 T-Shift:0 Rank:8 Order
+
+RankTab Order:1 T-Shift:0 Rank:8 Order
+Res1: 1 9 17
+Res2: 2 10
+Res3: 3 11
+Res4: 4 12
+Res5: 5 13
+Res6: 6 14
+Res7: 7 15
+Res8: 8 16
+
+
+**********************************************************
+Load InputArray
+Log started: 10 Oct 2018 2:25:28pm
+
+RankTab Order:1 T-Shift:0 Rank:3 Order
+
+RankTab Order:1 T-Shift:0 Rank:3 Order
+Res1: 1 2 3 4 5 6 7
+Res2: 8 9 10
+Res3: 11 12 13 14 15 16 17
+
+RankTab Order:1 T-Shift:0 Rank:5 Order
+
+RankTab Order:1 T-Shift:0 Rank:5 Order
+Res1: 1 2 3
+Res2: 4 5 6
+Res3: 7 8 9
+Res4: 10 11 12 13
+Res5: 14 15 16 17
+
+RankTab Order:1 T-Shift:0 Rank:5 Order
+Res1: 1 2 3
+Res2: 4 5 6
+Res3: 7 8 9
+Res4: 10 11 12 13
+Res5: 14 15 16 17
+
+RankTab Order:1 T-Shift:0 Rank:5 Order
+Res1: 1 2 3
+Res2: 4 5 6
+Res3: 7 8 9
+Res4: 10 11 12 13
+Res5: 14 15 16 17
+
+RankTab Order:1 T-Shift:0 Rank:7 Order
+
+RankTab Order:1 T-Shift:0 Rank:7 Order
+Res1: 1 2
+Res2: 3 4 5
+Res3: 6 7 8
+Res4: 9 10 11
+Res5: 12 13
+Res6: 14 15
+Res7: 16 17
+
+
+**********************************************************
+Load InputArray
+Log started: 11 Oct 2018 6:57:13am
+
+
+**********************************************************
+Load InputArray
+Log started: 14 Oct 2018 10:48:14am
+
+RankTab Order:1 T-Shift:0 Rank:4 Order
+
+RankTab Order:1 T-Shift:0 Rank:4 Order
+Res1: 1 2 3 4
+Res2: 5 6 7 8
+Res3: 9 10 11 12
+Res4: 13 14 15 16 17
+
+
+**********************************************************
+Load InputArray
+Log started: 14 Oct 2018 10:59:50am
+
+
+**********************************************************
+Load InputArray
+Log started: 23 Oct 2018 5:52:18am
+
+
+**********************************************************
+Load InputArray
+Log started: 29 May 2019 5:03:22pm
+
