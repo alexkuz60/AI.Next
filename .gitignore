@@ -1,8 +1,4 @@
 /.venv
 /__pycache__
-/InputDatas
-/em5_50.txt
-/librand.py
-/librand0.py
-/py_old
-/доки
+/archive
+/old_py
