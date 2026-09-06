@@ -18,7 +18,7 @@ dm_icon1=DashIconify(icon="material-symbols:airwave-rounded")
 dm_icon2=DashIconify(icon="tabler:waves-electricity")
 dm_icons_pack =[dm_icon0, dm_icon1, dm_icon2]
 
-file_name = '4x20.csv'
+file_name = 'csv_data/4x20.csv'
 file_data, matrix_data, matrix_size, max_size, max_order, max_nums, track_num = ld.uploadFileByName(
     file_name,
     order,
