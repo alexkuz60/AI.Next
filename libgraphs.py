@@ -6,7 +6,7 @@ import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-import libdatas as ld
+import libcore as lc
 
 if TYPE_CHECKING:
     from numpy.typing import NDArray
@@ -22,7 +22,7 @@ def drawDeepLevelWaves(
 ) -> go.Figure:
     """График волн и FFT для выбранной глубины матрицы."""
     x_max = len(w1)
-    diff_deep = ld.matchDiffDeep(deep, deep_mode)
+    diff_deep = lc.matchDiffDeep(deep, deep_mode)
 
     x_vals = np.arange(x_max)
 
@@ -77,14 +77,13 @@ def drawDeepLevelWaves(
             margin=dict(l=20, r=20, t=80, b=20),
             showlegend=False,
             height=500,
-            # Plotly 7: hover/click работают в любой точке графика
             hovermode="x unified",
             clickmode="event+select",
         ),
     )
 
-    y_min, y_max = ld.calcWavesMinMax(w1, w2, deep, deep_mode)
-    shapes, annotations = ld.createShapesAndAnnotations(track_zones, y_min, y_max)
+    y_min, y_max = lc.calcWavesMinMax(w1, w2, deep, deep_mode)
+    shapes, annotations = lc.createShapesAndAnnotations(track_zones, y_min, y_max)
 
     fig.update_yaxes(range=[y_min - 1, y_max + 1])
     fig.update_layout(shapes=shapes, annotations=annotations)
@@ -94,7 +93,7 @@ def drawDeepLevelWaves(
 
 def drawChancesBar(chances: list[float], max_num: int, win_num: int) -> go.Figure:
     """Горизонтальная гистограмма вероятностей треков."""
-    prognosis = ld.chancesToPercentes(chances)
+    prognosis = lc.chancesToPercentes(chances)
     nums = list(range(1, max_num + 1))
     fig = go.Figure(layout_template="plotly_dark")
 
@@ -167,14 +166,13 @@ def draw3D(data: NDArray[np.floating]) -> go.Figure:
 
 def drawMatrix(
     data_h: NDArray[np.floating],
-    levels: NDArray[np.int_],
     calcF: bool,
     data_f: NDArray[np.floating] | list,
     track: NDArray[np.int_],
     leaps: NDArray[np.floating],
 ) -> go.Figure:
     """Комбинированная матрица: heatmap + треки + точки переходов."""
-    x_max = len(levels)
+    x_max = data_h.shape[1]
     fig = go.Figure()
 
     fig.add_trace(
@@ -190,7 +188,7 @@ def drawMatrix(
         )
     )
 
-    if calcF and data_f:
+    if calcF and data_f is not None and len(data_f):
         fig.add_trace(
             go.Heatmap(
                 z=data_f,
@@ -229,7 +227,6 @@ def drawMatrix(
         )
     )
 
-    # Plotly 7: hovermode для unified tooltip
     fig.update_layout(
         template="plotly_dark",
         clickmode="event+select",
@@ -304,9 +301,10 @@ def createCombinedSubplot(
     )
     for trace in deep_fig.data:
         fig.add_trace(trace, row=1, col=1)
+
     fig.update_layout(
-        shapes=deep_fig.layout.shapes,
-        annotations=deep_fig.layout.annotations,
+        shapes=list(deep_fig.layout.shapes or []),
+        annotations=list(fig.layout.annotations or []) + list(deep_fig.layout.annotations or []),
     )
     fig.update_xaxes(
         title_text="x",
@@ -328,7 +326,7 @@ def createCombinedSubplot(
     )
 
     # --- 2-я фигура: матрица ---
-    matrix_fig = drawMatrix(data_h, diff_waves, calcF, data_f, track, leaps)
+    matrix_fig = drawMatrix(data_h, calcF, data_f, track, leaps)
 
     for trace in matrix_fig.data:
         fig.add_trace(trace, row=2, col=1)

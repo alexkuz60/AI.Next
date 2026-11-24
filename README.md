@@ -4,6 +4,48 @@
 
 Dash/Plotly приложение для анализа и прогнозирования событийных данных.
 
+## Запуск
+
+```bash
+python -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python app_next.py
+```
+
+Приложение откроется на `http://127.0.0.1:8050`. Переменные окружения:
+
+| Переменная | По умолчанию | Назначение |
+|------------|--------------|------------|
+| `APP_DEBUG` | `false` | Режим отладки Dash |
+| `APP_HOST` | `127.0.0.1` | Адрес прослушивания |
+| `APP_PORT` | `8050` | Порт |
+| `MAX_UPLOAD_MB` | `16` | Лимит размера загружаемого CSV |
+
+## Структура
+
+| Файл | Назначение |
+|------|------------|
+| `app_next.py` | Точка входа, `app` и `server` |
+| `app.py` | Фабрика `create_app()` |
+| `layout.py` | Компоненты интерфейса |
+| `callbacks.py` | Обработчики Dash и регистрация callback'ов |
+| `pipeline.py` | Числовой расчёт `compute_core` и сборка фигур |
+| `libdatas.py` | Загрузка CSV и матричные расчёты |
+| `libcore.py` | Общие волновые функции и таблицы маркеров |
+| `libgraphs.py` | Построение Plotly-фигур |
+| `state.py` | Серверные LRU-кэши файлов и расчётов |
+| `config.py` | Настройки из переменных окружения |
+
+## Тесты и линтер
+
+```bash
+.venv/bin/pip install -r requirements-dev.txt
+.venv/bin/python -m ruff check .
+.venv/bin/python -m pytest
+```
+
+Входной CSV должен содержать только целые числа (разделитель tab, comma или semicolon).
+
 ---
 
 ## Математическое описание алгоритмов

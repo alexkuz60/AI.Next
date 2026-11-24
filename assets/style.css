@@ -1,0 +1,20 @@
+html, body, #_dash-app-content {
+    background-color: #141517 !important;
+    color: #C1C2C5 !important;
+}
+
+.mantine-AppShell-header,
+.mantine-Grid,
+.mantine-Stack,
+.mantine-Group {
+    background-color: #141517 !important;
+}
+
+.js-plotly-plot .plotly .bg,
+.js-plotly-plot .plotly .main-svg {
+    background: transparent !important;
+}
+
+.mantine-active {
+    background-color: #141517 !important;
+}
